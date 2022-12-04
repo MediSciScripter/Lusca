@@ -1,6 +1,6 @@
 # LUSCA
 ImageJ/Fiji-based plugin for automated morphological analysis of neurons and other biological structures.
-
+\n
 
 INSTALLATION:
 1. Download the file Lusca_.ijm
