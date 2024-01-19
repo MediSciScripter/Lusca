@@ -2,7 +2,7 @@
 Lusca – FIJI (ImageJ) based tool for automated morphological analysis of cellular and subcellular structures.
 #
 ABOUT:
-This plugin implements a machine learning tool for image segmentation, which enables better segmentation of pixels for the analysis of noisy images or images with low contrast of desired objects compared to the background. Furthermore, it offers the user many possibilities for morphological image analysis (area or volume, number, intensity, length, width, and colocalization of segmented objects). Due to the special procedure of image segmentation, it is also capable of analyzing other biological structures recorded with different techniques (immunocytochemistry, MRA, in vitro cultures), such as blood vessels, and cellular organelles.
+This macro implements a machine learning tool for image segmentation, which enables better segmentation of pixels for the analysis of noisy images or images with low contrast of desired objects compared to the background. Furthermore, it offers the user many possibilities for morphological image analysis (area or volume, number, intensity, length, width, and colocalization of segmented objects). Due to the special procedure of image segmentation, it is also capable of analyzing other biological structures recorded with different techniques (immunocytochemistry, MRA, in vitro cultures), such as blood vessels, and cellular organelles.
 #
 INSTALLATION:
 1. Download the file Lusca_.ijm
