@@ -1,0 +1,26 @@
+INPUT PARAMETERS - Number of analysis: 1
+Image type: Single image, 2D
+Classifier name: classifier_neuron.model
+Class name and number: Neural projections (1)
+Minimum and maximum threshold: 0.4 - 1
+Minimum and maximum size: 5 - 99999
+Circularity: 0.00-1.00
+Exclude on the edges: no
+Morphology analysis: ''Neural projections''
+Number of bins: 3
+Minimum and maximum histogram number: 0 - 6
+
+INPUT PARAMETERS - Number of analysis: 2
+Image type: Single image, 2D
+Classifier name: classifier_neuron.model
+Class name and number: Soma (2)
+Minimum and maximum threshold: 0.3 - 1
+Minimum and maximum size: 5 - 99999
+Circularity: 0.00-1.00
+Exclude on the edges: no
+Morphology analysis: ''Soma and nuclei'' 
+Nuclei classifier name: classifier_nuclei.model
+Nuclei minimum and maximum threshold: 0.5 - 1
+Nuclei minimum and maximum size: 5 - 99999
+Nuclei circularity: 0.00-1.00
+
